@@ -24,4 +24,4 @@ Contact: **sxr@pdx.edu**
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
-[Gameplay demo of current state]()
+[Gameplay demo of current state](https://www.youtube.com/watch?v=DZXe3aoYR50)
