@@ -1,4 +1,4 @@
-# Banshee-Beam
+# Banshee-Beam-VR
 2019 Sebastian Reynolds
 
 A simple VR sound visualizer/projectile component that spawns and changes the properties of a projectile (currently only color gradient) based on the pitch of ones voice. The color gradient used is from red(low frequencies) to yellow(gradient).
