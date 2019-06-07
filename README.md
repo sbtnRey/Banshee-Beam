@@ -1,6 +1,6 @@
 # Banshee-Beam-VR
 
-A simple VR sound visualizer/projectile component that spawns and changes the properties of a projectile (currently only color gradient) based on the pitch of ones voice. Curently the range of frequencies is only set to capture and utilize the human voic and The color gradient used is from red(low frequencies) to yellow(high frequencies). Future improvements on this codebase would be to integrate the component into a game.
+A simple VR sound visualizer/projectile component that spawns and changes the properties of a projectile (currently only color gradient) based on the pitch of ones voice. Curently the range of frequencies is only set to capture and utilize the human voice and the color gradient used is from red(low frequencies) to yellow(high frequencies). Future improvements on this codebase would be to integrate the component into a game.
 
 
 ## Build instructions
