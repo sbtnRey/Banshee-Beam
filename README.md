@@ -23,7 +23,7 @@ Contact: **sxr@pdx.edu**
 ## What doesn't work 
 One major problem that I suspected from the start that I would run into it the latency/lag between when one makes a sound and when an actual projectile is spawned. the lag isn't too bad, but I think that this can be resolved be being a little more tricker about how I'm curretly calling spawn objects. When a single object is called for the projectile rather than multiple, there doesn't seem to be any lag.
 
-Another problem That I would like to resolve is that I could not utilize my VR headsets internal microphone for my current build, rather use a seperate one.
+Another problem that I would like to resolve is that I could not utilize my VR headsets internal microphone for my current build, rather use a seperate one.
 
 ## License
 
